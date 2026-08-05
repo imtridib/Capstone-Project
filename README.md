@@ -185,7 +185,7 @@ Language detection is fully automatic. The model always processes internally in 
 
 ---
 
-### 📸 Dataset Samples
+### 📸 Primary System Architechture
 
 <p align="center">
   <img src="assets/System_Architecture.png" alt="Sample 1" width="95%">
