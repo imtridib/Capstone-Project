@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+pillow
+googletrans==4.0.0-rc1
+groq
