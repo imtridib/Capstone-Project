@@ -199,19 +199,19 @@ Language detection is fully automatic. The model always processes internally in 
 
 
 <p align="center">
-  <img src="assets/Sample_Image1.png" alt="Sample 1" width="85%">
+  <img src="assets/Sample_Image1.png" alt="Sample 1" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image2.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image2.png" alt="Sample 2" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image11.png" alt="Sample 1" width="85%">
+  <img src="assets/Sample_Image11.png" alt="Sample 1" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image10.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image10.png" alt="Sample 2" width="95%">
 </p>
 
 ---
@@ -221,28 +221,28 @@ Language detection is fully automatic. The model always processes internally in 
 
 
 <p align="center">
-  <img src="assets/Sample_Image3.png" alt="Sample 1" width="85%">
+  <img src="assets/Sample_Image3.png" alt="Sample 1" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image4.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image4.png" alt="Sample 2" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image5.png" alt="Sample 1" width="85%">
+  <img src="assets/Sample_Image5.png" alt="Sample 1" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image6.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image6.png" alt="Sample 2" width="95%">
 </p>
 
 <p align="center">
-  <img src="assets/Sample_Image7.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image7.png" alt="Sample 2" width="95%">
 </p>
 
 
 <p align="center">
-  <img src="assets/Sample_Image8.png" alt="Sample 2" width="85%">
+  <img src="assets/Sample_Image8.png" alt="Sample 2" width="95%">
 </p>
 
 ---
