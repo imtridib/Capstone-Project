@@ -197,19 +197,53 @@ Language detection is fully automatic. The model always processes internally in 
 
 ### Main Interface
 
-> *(Add your application interface screenshot below)*
 
-<!-- ![Interface](assets/interface.png) -->
-*(add interface screenshot here)*
+<p align="center">
+  <img src="assets/Sample_Image1.png" alt="Sample 1" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image2.png" alt="Sample 2" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image11.png" alt="Sample 1" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image10.png" alt="Sample 2" width="85%">
+</p>
 
 ---
 
+
 ### Result Output
 
-> *(Add your result output screenshot below)*
 
-<!-- ![Result](assets/result.png) -->
-*(add result screenshot here)*
+<p align="center">
+  <img src="assets/Sample_Image3.png" alt="Sample 1" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image4.png" alt="Sample 2" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image5.png" alt="Sample 1" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image6.png" alt="Sample 2" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/Sample_Image7.png" alt="Sample 2" width="85%">
+</p>
+
+
+<p align="center">
+  <img src="assets/Sample_Image8.png" alt="Sample 2" width="85%">
+</p>
 
 ---
 
