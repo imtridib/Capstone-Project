@@ -58,8 +58,7 @@ A custom dataset was built from scratch covering major **cultural heritage sites
 ### 📸 Dataset Samples
 
 <p align="center">
-  <img src="assets/Dataset_Image.png" alt="Sample 1" width="49%">
-  <img src="assets/System_Architecture.png" alt="Sample 2" width="49%">
+  <img src="assets/Dataset_Image.png" alt="Sample 1" width="95%">
 </p>
 
 ---
