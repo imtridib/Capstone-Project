@@ -57,16 +57,10 @@ A custom dataset was built from scratch covering major **cultural heritage sites
 
 ### 📸 Dataset Samples
 
-> *(Add your dataset sample images below)*
-
-<!-- 
-  HOW TO ADD: Upload images to your repo's assets/ folder, then replace the lines below:
-  ![Sample 1](assets/dataset_sample1.jpg)
--->
-
-| Sample Image 1 | Sample Image 2 | Sample Image 3 |
-|:-:|:-:|:-:|
-| *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image1.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image2.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image3.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image4.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image5.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image6.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image7.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image9.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image10.png)* | *(F:\CasptoneProject\Capstone_Project\sample_images\Sample_Image11.png)* |
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| ![](assets/Sample_Image1.png) | ![](assets/Sample_Image2.png) | ![](assets/Sample_Image3.png) | ![](assets/Sample_Image4.png) | ![](assets/Sample_Image5.png) |
+| ![](assets/Sample_Image6.png) | ![](assets/Sample_Image7.png) | ![](assets/Sample_Image9.png) | ![](assets/Sample_Image10.png) | ![](assets/Sample_Image11.png) |
 
 ---
 
