@@ -247,6 +247,20 @@ Language detection is fully automatic. The model always processes internally in 
 
 ---
 
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="assets\A Multilingual Visual Question Answering for Cultural Heritage of Bangladesh.mp4">
+    <img src="assets\Sample_Image11.png/video_thumbnail.png" alt="Project Demo" width="85%">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ Click the image to watch the demo video</b>
+</p>
+
+---
+
 ## 🚀 Local Setup
 
 ### Prerequisites
